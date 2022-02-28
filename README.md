@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://kuzmishchew.github.io/rsschool-cv/cv
