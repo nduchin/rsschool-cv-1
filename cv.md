@@ -11,3 +11,15 @@
 **Email:** kuzmishchew@gmail.com
 
 **Telegram:** @mskuzmis
+
+### **About me**
+
+### **Skills**
+
+### **Code Examples**
+
+### **Work experience**
+
+### **Education**
+
+### **Languages**
